@@ -1,7 +1,7 @@
  ---
  title: "Polars"
  layout: archive
- permalink: categories/polars
+ permalink: /polars
  author_profile: true
  sidebar:
    nav: "sidebar"
