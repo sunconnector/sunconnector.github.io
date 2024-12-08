@@ -4,7 +4,7 @@
  permalink: categories/polars
  author_profile: true
  sidebar:
-   nav: "docs"
+   nav: "sidebar"
  ---
 
  {% assign posts = site.categories.categories %}
