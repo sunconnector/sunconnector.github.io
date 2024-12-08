@@ -1,6 +1,6 @@
  ---
  title: "polars"
- layout: categories
+ layout: category
  permalink: /categories/polars
  author_profile: true
  ---
