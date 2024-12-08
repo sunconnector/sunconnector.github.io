@@ -1,7 +1,7 @@
  ---
- title: "categories"
+ title: "polars"
  layout: categories
- permalink: /categories/
+ permalink: /categories/polars
  author_profile: true
  sidebar:
    nav: "sidebar"
