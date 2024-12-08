@@ -5,10 +5,10 @@ main:
   - title: "Posts"
     url: /_posts/
 sidebar-sample:
-  - title: "Parent Page A"
+  - title: "test"
     children:
-      - title: "Child Page A1"
-        url : /
+      - title: "test"
+        url : /test
   - title: "Parent Page B"
     children:
       - title: "Child Page B1"
