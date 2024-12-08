@@ -1,11 +1,8 @@
  ---
- title: "Polars"
- layout: categories
+ title: "polars"
+ layout: polars
  permalink: /polars
  author_profile: true
  sidebar:
    nav: "sidebar"
  ---
-
- {% assign posts = site.categories.categories %}
- {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}
