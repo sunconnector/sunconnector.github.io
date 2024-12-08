@@ -4,15 +4,16 @@ main:
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Posts"
     url: /_posts/
-sidebar-sample:
-  - title: "test"
+sidebar:
+  - title: "Python"
     children:
-      - title: "test"
-        url : /test
-  - title: "Parent Page B"
-    children:
-      - title: "Child Page B1"
-        url: /
+      - title: "Polars"
+        url : categories/polars
+        category : "polars"
+        children:
+      - title: "Altair"
+        url : categories/altair
+        category : "Altair"
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
