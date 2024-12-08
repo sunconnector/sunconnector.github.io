@@ -7,13 +7,13 @@ main:
 sidebar:
   - title: "Python"
     children:
-      - title: "Polars"
-        url : categories/polars
+      - title: "polars"
+        url : /polars
         category : "polars"
         children:
-      - title: "Altair"
-        url : categories/altair
-        category : "Altair"
+      - title: "altair"
+        url : /altair
+        category : "altair"
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
