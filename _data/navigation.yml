@@ -8,11 +8,11 @@ sidebar:
   - title: "Python"
     children:
       - title: "polars"
-        url : /polars
+        url : /categories/polars
         category : "polars"
         children:
       - title: "altair"
-        url : /altair
+        url : /categories/altair
         category : "altair"
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
