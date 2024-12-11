@@ -1,9 +1,9 @@
 ---
-title: "Polars"
+title: "Altair"
 layout: category
-permalink: /categories/polars/
+permalink: /categories/altair/
 author_profile: true
-taxonomy: polars
+taxonomy: altair
 sidebar:
   nav: "categories"
 ---
