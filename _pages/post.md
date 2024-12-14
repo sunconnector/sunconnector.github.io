@@ -2,6 +2,7 @@
 title: post
 layout: category
 permalink: /categories/post/
+author_profile : true
 taxonomy: post
 ---
 
