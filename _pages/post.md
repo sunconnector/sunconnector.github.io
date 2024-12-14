@@ -1,5 +1,5 @@
 ---
-title: Edge Case
+title: post
 layout: category
 permalink: /categories/post/
 taxonomy: post
