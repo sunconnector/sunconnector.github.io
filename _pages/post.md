@@ -1,7 +1,7 @@
 ---
 title: post
 layout: category
-permalink: /categories/post/
+permalink: /post/
 author_profile : true
 taxonomy: post
 ---
