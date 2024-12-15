@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 layout: single
-title: "Introduce"
+title: "# Introduce"
 ---
 
 ## Skill
