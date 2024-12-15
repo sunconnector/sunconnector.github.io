@@ -51,3 +51,45 @@ header:
 ```
 
 [![foo](https://live.staticflickr.com/8361/8400335147_5fabaa504c_o.jpg)](https://flic.kr/p/dNiUYB)
+
+## Tables
+
+| Header1 | Header2 | Header3 |
+|:--------|:-------:|--------:|
+| cell1   | cell2   | cell3   |
+| cell4   | cell5   | cell6   |
+|----
+| cell1   | cell2   | cell3   |
+| cell4   | cell5   | cell6   |
+|=====
+| Foot1   | Foot2   | Foot3
+{: rules="groups"}
+
+## Code Snippets
+
+```css
+#container {
+  float: left;
+  margin: 0 -240px 0 0;
+  width: 100%;
+}
+```
+
+## Buttons
+
+Make any link standout more when applying the `.btn` class.
+
+```html
+<a href="#" class="btn btn--success">Success Button</a>
+```
+
+<div markdown="0"><a href="#" class="btn">Primary Button</a></div>
+<div markdown="0"><a href="#" class="btn btn--success">Success Button</a></div>
+<div markdown="0"><a href="#" class="btn btn--warning">Warning Button</a></div>
+<div markdown="0"><a href="#" class="btn btn--danger">Danger Button</a></div>
+<div markdown="0"><a href="#" class="btn btn--info">Info Button</a></div>
+
+## Notices
+
+**Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
+{: .notice}
