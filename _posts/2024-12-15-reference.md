@@ -4,6 +4,7 @@ excerpt: "포스트 작성을 위한 참고자료"
 categories:
     - Markdown
 toc : true
+comments: true
 
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
