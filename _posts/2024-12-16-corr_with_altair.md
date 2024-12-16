@@ -1,6 +1,7 @@
 ---
 title:  "Corr with altair"
 excerpt: "뚝심있게 시각화는 altair로"
+layout : single-wide-toc-left
 classes : wide
 categories:
     - polars
