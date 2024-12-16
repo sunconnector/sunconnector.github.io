@@ -2,7 +2,6 @@
 toc : true
 ---
 
-
 ```python
 import polars as pl
 import altair as alt
