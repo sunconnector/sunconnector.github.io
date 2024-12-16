@@ -54,7 +54,9 @@ circle = base.mark_circle().encode(
 
 alt.vconcat(
     circle.add_params( sel ), bar.transform_filter( sel )
-).configure_axis( title = None, labelAngle = 0 )
+).configure_axis( 
+    title = None, labelAngle = 0, grid = False
+).configure_view( stroke = None )
 ```
 
 
@@ -62,23 +64,23 @@ alt.vconcat(
 
 
 <style>
-  #altair-viz-ccae7472e2d541949fc3ba2e1b7bde4f.vega-embed {
+  #altair-viz-3fa5d233d9814c4faa952aeec48a6901.vega-embed {
     width: 100%;
     display: flex;
   }
 
-  #altair-viz-ccae7472e2d541949fc3ba2e1b7bde4f.vega-embed details,
-  #altair-viz-ccae7472e2d541949fc3ba2e1b7bde4f.vega-embed details summary {
+  #altair-viz-3fa5d233d9814c4faa952aeec48a6901.vega-embed details,
+  #altair-viz-3fa5d233d9814c4faa952aeec48a6901.vega-embed details summary {
     position: relative;
   }
 </style>
-<div id="altair-viz-ccae7472e2d541949fc3ba2e1b7bde4f"></div>
+<div id="altair-viz-3fa5d233d9814c4faa952aeec48a6901"></div>
 <script type="text/javascript">
   var VEGA_DEBUG = (typeof VEGA_DEBUG == "undefined") ? {} : VEGA_DEBUG;
   (function(spec, embedOpt){
     let outputDiv = document.currentScript.previousElementSibling;
-    if (outputDiv.id !== "altair-viz-ccae7472e2d541949fc3ba2e1b7bde4f") {
-      outputDiv = document.getElementById("altair-viz-ccae7472e2d541949fc3ba2e1b7bde4f");
+    if (outputDiv.id !== "altair-viz-3fa5d233d9814c4faa952aeec48a6901") {
+      outputDiv = document.getElementById("altair-viz-3fa5d233d9814c4faa952aeec48a6901");
     }
 
     const paths = {
@@ -126,7 +128,7 @@ alt.vconcat(
         .catch(showError)
         .then(() => displayChart(vegaEmbed));
     }
-  })({"config": {"view": {"continuousWidth": 300, "continuousHeight": 300}, "axis": {"labelAngle": 0, "title": null}}, "vconcat": [{"mark": {"type": "circle"}, "encoding": {"size": {"aggregate": "sum", "field": "value", "legend": null, "type": "quantitative"}, "x": {"field": "key", "type": "nominal"}}, "name": "view_4", "transform": [{"fold": ["a", "b", "c"]}]}, {"mark": {"type": "bar"}, "encoding": {"x": {"field": "key", "type": "nominal"}, "y": {"aggregate": "sum", "field": "value", "type": "quantitative"}}, "transform": [{"fold": ["a", "b", "c"]}, {"filter": {"param": "param_4"}}]}], "data": {"name": "data-d2523f05b75addaf28cc3eb5b9d9104d"}, "params": [{"name": "param_4", "select": {"type": "point", "fields": ["key"]}, "views": ["view_4"]}], "$schema": "https://vega.github.io/schema/vega-lite/v5.20.1.json", "datasets": {"data-d2523f05b75addaf28cc3eb5b9d9104d": [{"a": 1, "b": 1, "c": 3}, {"a": 3, "b": 3, "c": 8}, {"a": 4, "b": 4, "c": 4}]}}, {"mode": "vega-lite"});
+  })({"config": {"view": {"continuousWidth": 300, "continuousHeight": 300, "stroke": null}, "axis": {"grid": false, "labelAngle": 0, "title": null}}, "vconcat": [{"mark": {"type": "circle"}, "encoding": {"size": {"aggregate": "sum", "field": "value", "legend": null, "type": "quantitative"}, "x": {"field": "key", "type": "nominal"}}, "name": "view_6", "transform": [{"fold": ["a", "b", "c"]}]}, {"mark": {"type": "bar"}, "encoding": {"x": {"field": "key", "type": "nominal"}, "y": {"aggregate": "sum", "field": "value", "type": "quantitative"}}, "transform": [{"fold": ["a", "b", "c"]}, {"filter": {"param": "param_6"}}]}], "data": {"name": "data-d2523f05b75addaf28cc3eb5b9d9104d"}, "params": [{"name": "param_6", "select": {"type": "point", "fields": ["key"]}, "views": ["view_6"]}], "$schema": "https://vega.github.io/schema/vega-lite/v5.20.1.json", "datasets": {"data-d2523f05b75addaf28cc3eb5b9d9104d": [{"a": 1, "b": 1, "c": 3}, {"a": 3, "b": 3, "c": 8}, {"a": 4, "b": 4, "c": 4}]}}, {"mode": "vega-lite"});
 </script>
 
 
