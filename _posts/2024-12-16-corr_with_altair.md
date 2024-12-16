@@ -5,7 +5,7 @@ categories:
     - polars
     - altair
 toc : true
-toc sticky : true
+toc_sticky : true
 ---
 
 ```python
@@ -13,7 +13,7 @@ import polars as pl
 import altair as alt
 ```
 
-# # make DatraFrame
+### # make DatraFrame
 
 
 ```python
@@ -24,7 +24,7 @@ df = pl.DataFrame( {
 } )
 ```
 
-# # check corr
+### # check corr
 
 
 ```python
@@ -33,12 +33,13 @@ df_c = df.corr().with_columns(
 ).unpivot( index = 'col' )
 ```
 
-# # Visualiztion with altair
+### # Visualiztion with altair
 
 
 ```python
 df_base = alt.Chart( df_c ).mark_rect().encode(
-    alt.X( 'col' ), alt.Y( 'variable' )
+    alt.X( 'col' ).title( None ).axis( labelAngle = 0 ), 
+    alt.Y( 'variable' ).title( None )
 )
 
 df_rect = df_base.mark_rect().encode(
@@ -47,9 +48,13 @@ df_rect = df_base.mark_rect().encode(
 
 df_text = df_base.mark_text().encode(
     alt.Text( 'value' ).format( ',.2%' ), 
-    color = alt.condition( alt.datum.value > 0.8, alt.value( 'white' ), alt.value( 'gray' ) )
+    color = alt.condition( 
+        alt.datum.value > 0.8, alt.value( 'white' ), alt.value( 'gray' ) 
+    )
 )
-alt.layer( df_rect, df_text, width = 300, height = 300 )
+alt.layer( 
+    df_rect, df_text, width = 300, height = 300 
+).configure_axis( labelFontSize = 13 )
 ```
 
 
@@ -57,23 +62,23 @@ alt.layer( df_rect, df_text, width = 300, height = 300 )
 
 
 <style>
-  #altair-viz-bc0f2b47f5dd4fd9ac9ae5f146c8c4b2.vega-embed {
+  #altair-viz-1e8e3cf225a04ad28dc2084629771656.vega-embed {
     width: 100%;
     display: flex;
   }
 
-  #altair-viz-bc0f2b47f5dd4fd9ac9ae5f146c8c4b2.vega-embed details,
-  #altair-viz-bc0f2b47f5dd4fd9ac9ae5f146c8c4b2.vega-embed details summary {
+  #altair-viz-1e8e3cf225a04ad28dc2084629771656.vega-embed details,
+  #altair-viz-1e8e3cf225a04ad28dc2084629771656.vega-embed details summary {
     position: relative;
   }
 </style>
-<div id="altair-viz-bc0f2b47f5dd4fd9ac9ae5f146c8c4b2"></div>
+<div id="altair-viz-1e8e3cf225a04ad28dc2084629771656"></div>
 <script type="text/javascript">
   var VEGA_DEBUG = (typeof VEGA_DEBUG == "undefined") ? {} : VEGA_DEBUG;
   (function(spec, embedOpt){
     let outputDiv = document.currentScript.previousElementSibling;
-    if (outputDiv.id !== "altair-viz-bc0f2b47f5dd4fd9ac9ae5f146c8c4b2") {
-      outputDiv = document.getElementById("altair-viz-bc0f2b47f5dd4fd9ac9ae5f146c8c4b2");
+    if (outputDiv.id !== "altair-viz-1e8e3cf225a04ad28dc2084629771656") {
+      outputDiv = document.getElementById("altair-viz-1e8e3cf225a04ad28dc2084629771656");
     }
 
     const paths = {
@@ -121,7 +126,7 @@ alt.layer( df_rect, df_text, width = 300, height = 300 )
         .catch(showError)
         .then(() => displayChart(vegaEmbed));
     }
-  })({"config": {"view": {"continuousWidth": 300, "continuousHeight": 300}}, "layer": [{"mark": {"type": "rect"}, "encoding": {"color": {"field": "value", "type": "quantitative"}, "x": {"field": "col", "type": "nominal"}, "y": {"field": "variable", "type": "nominal"}}}, {"mark": {"type": "text"}, "encoding": {"color": {"condition": {"test": "(datum.value > 0.8)", "value": "white"}, "value": "gray"}, "text": {"field": "value", "format": ",.2%", "type": "quantitative"}, "x": {"field": "col", "type": "nominal"}, "y": {"field": "variable", "type": "nominal"}}}], "data": {"name": "data-2fb14dc0c9c76cea61193ac53700856c"}, "height": 300, "width": 300, "$schema": "https://vega.github.io/schema/vega-lite/v5.20.1.json", "datasets": {"data-2fb14dc0c9c76cea61193ac53700856c": [{"col": "a", "variable": "a", "value": 1.0}, {"col": "b", "variable": "a", "value": 1.0}, {"col": "c", "variable": "a", "value": 0.37115374447904514}, {"col": "a", "variable": "b", "value": 1.0}, {"col": "b", "variable": "b", "value": 1.0}, {"col": "c", "variable": "b", "value": 0.37115374447904514}, {"col": "a", "variable": "c", "value": 0.37115374447904514}, {"col": "b", "variable": "c", "value": 0.37115374447904514}, {"col": "c", "variable": "c", "value": 0.9999999999999998}]}}, {"mode": "vega-lite"});
+  })({"config": {"view": {"continuousWidth": 300, "continuousHeight": 300}, "axis": {"labelFontSize": 13}}, "layer": [{"mark": {"type": "rect"}, "encoding": {"color": {"field": "value", "type": "quantitative"}, "x": {"axis": {"labelAngle": 0}, "field": "col", "title": null, "type": "nominal"}, "y": {"field": "variable", "title": null, "type": "nominal"}}}, {"mark": {"type": "text"}, "encoding": {"color": {"condition": {"test": "(datum.value > 0.8)", "value": "white"}, "value": "gray"}, "text": {"field": "value", "format": ",.2%", "type": "quantitative"}, "x": {"axis": {"labelAngle": 0}, "field": "col", "title": null, "type": "nominal"}, "y": {"field": "variable", "title": null, "type": "nominal"}}}], "data": {"name": "data-2fb14dc0c9c76cea61193ac53700856c"}, "height": 300, "width": 300, "$schema": "https://vega.github.io/schema/vega-lite/v5.20.1.json", "datasets": {"data-2fb14dc0c9c76cea61193ac53700856c": [{"col": "a", "variable": "a", "value": 1.0}, {"col": "b", "variable": "a", "value": 1.0}, {"col": "c", "variable": "a", "value": 0.37115374447904514}, {"col": "a", "variable": "b", "value": 1.0}, {"col": "b", "variable": "b", "value": 1.0}, {"col": "c", "variable": "b", "value": 0.37115374447904514}, {"col": "a", "variable": "c", "value": 0.37115374447904514}, {"col": "b", "variable": "c", "value": 0.37115374447904514}, {"col": "c", "variable": "c", "value": 0.9999999999999998}]}}, {"mode": "vega-lite"});
 </script>
 
 
