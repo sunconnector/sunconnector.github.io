@@ -1,7 +1,6 @@
 ---
-title:  "Corr with altair"
+title:  "[ python ] heatmap with altair & polars"
 excerpt: "뚝심있게 시각화는 altair로"
-layout : single-wide-toc-left
 classes : wide
 categories:
     - polars
