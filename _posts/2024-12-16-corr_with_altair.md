@@ -1,6 +1,8 @@
 ---
 title:  "Corr with altair"
 excerpt: "뚝심있게 시각화는 altair로"
+layout : single
+classes : wide
 categories:
     - polars
     - altair
@@ -14,6 +16,7 @@ import altair as alt
 ```
 
 ### # make DatraFrame
+---
 
 
 ```python
@@ -25,6 +28,7 @@ df = pl.DataFrame( {
 ```
 
 ### # check corr
+___
 
 
 ```python
@@ -34,6 +38,7 @@ df_c = df.corr().with_columns(
 ```
 
 ### # Visualiztion with altair
+___
 
 
 ```python
