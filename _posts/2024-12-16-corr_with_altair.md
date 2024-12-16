@@ -5,8 +5,8 @@ categories:
     - polars
     - altair
 toc : true
+toc sticky : true
 ---
-
 
 ```python
 import polars as pl
