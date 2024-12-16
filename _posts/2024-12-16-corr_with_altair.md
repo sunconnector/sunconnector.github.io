@@ -1,6 +1,12 @@
 ---
+title:  "Corr with altair"
+excerpt: "뚝심있게 시각화는 altair로"
+categories:
+    - polars
+    - altair
 toc : true
 ---
+
 
 ```python
 import polars as pl
