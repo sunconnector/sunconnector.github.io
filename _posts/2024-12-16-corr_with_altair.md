@@ -1,7 +1,7 @@
 ---
 title:  "[ python ] heatmap with altair & polars"
 excerpt: "뚝심있게 시각화는 altair로"
-classes : wide
+# classes : wide
 categories:
     - polars
     - altair
