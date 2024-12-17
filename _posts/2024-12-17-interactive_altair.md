@@ -8,9 +8,7 @@ categories:
 toc : true
 toc_sticky : true
 ---
-
 ## # test interactive chart in github blog
-### # import library
 ---
 
 
@@ -132,8 +130,3 @@ alt.vconcat(
 </script>
 
 
-
-
-```python
-
-```
