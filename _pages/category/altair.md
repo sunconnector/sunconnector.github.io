@@ -1,7 +1,7 @@
 ---
 title: "Altair"
 permalink: /categories/altair/
-layout: archive
+layout: category
 author_profile: true
 taxonomy: Altair
 ---
