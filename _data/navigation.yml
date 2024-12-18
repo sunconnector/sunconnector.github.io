@@ -9,5 +9,5 @@ main:
   - title: "About"
     url: /about/
 side_bar:
-  - title: "Categoris"
+  - title: "Python"
     url: /categories/polars
