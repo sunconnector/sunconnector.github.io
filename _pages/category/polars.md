@@ -1,7 +1,7 @@
 ---
 title: "Polars"
 permalink: /categories/polars/
-layout: archive
+layout: category
 author_profile: true
 taxonomy: Polars
 ---
