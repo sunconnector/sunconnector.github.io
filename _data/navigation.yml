@@ -10,4 +10,4 @@ main:
     url: /about/
 side_bar:
   - title: "Python"
-    url: /categories/polars
+    url: /categories/polars/
