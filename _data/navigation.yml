@@ -13,5 +13,7 @@ side_bar:
     children:
       - title: "Polars"
         url: /categories/polars/
+        category : polars
       - title: "Altair"
         url: /categories/altair/
+        category : altair
