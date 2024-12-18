@@ -10,6 +10,6 @@ main:
     url: /about/
 side_bar:
   - title: "Python"
-  children:
-      - title: "polars"
-        url: categories/polars/
+    children:
+      - title: "Polars"
+        url: /categories/polars/
