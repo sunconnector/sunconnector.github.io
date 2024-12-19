@@ -8,6 +8,8 @@ main:
     url: /tags/
   - title: "About"
     url: /about/
+  - title: "Portfolio"
+    url: /portfolio/
 side_bar:
   - title: "Python"
     children:
