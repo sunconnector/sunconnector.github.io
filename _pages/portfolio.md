@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Portfolio"
-permalink: /portfolios/
+permalink: /portfolioed/
 header:
     overlay_image: /assets/images/logo.png
     caption: "My Logo"
