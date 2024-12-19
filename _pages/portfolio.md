@@ -20,7 +20,7 @@ feature_01:
         - Test
 ---
 
-## Projects in Computer Science
+## [ Sunconnector ]( /about )
 
 {% include feature_row id="feature_01" type="left" %}
 <a name="Gifify AWS app"></a>
