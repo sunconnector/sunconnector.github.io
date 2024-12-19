@@ -23,4 +23,7 @@ feature_01:
 ## [ Sunconnector ]( /about )
 
 {% include feature_row id="feature_01" type="left" %}
-<a name="Gifify AWS app"></a>
+<a name="Logo in Left"></a>
+
+{% include feature_row id="feature_01" type="right" %}
+<a name="Logo in Right"></a>
