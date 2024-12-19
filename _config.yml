@@ -325,3 +325,9 @@ defaults:
       related: true
       sidebar:
         nav: "side_bar"
+
+# Collections
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
