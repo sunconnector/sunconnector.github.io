@@ -7,6 +7,7 @@ categories:
     - altair
 toc : true
 toc_sticky : true
+comments : true
 ---
 ## # test interactive chart in github blog
 ---
