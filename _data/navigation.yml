@@ -2,6 +2,8 @@
 main:
   - title: "Home"
     url: /
+  - title: "Blog"
+    url: /blog
   - title: "Categoris"
     url: /categories/
   - title: "Tags"
