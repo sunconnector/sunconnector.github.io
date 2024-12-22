@@ -7,3 +7,8 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+.page__taxonomy-item:hover {
+  color: #577DF9;
+  # background-color: #your-desired-background-color;
+}
