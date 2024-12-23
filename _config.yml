@@ -116,7 +116,7 @@ author:
   name             : # "Your Name"
   avatar           : /assets/images/profile.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Analysis"
-  location         : "Korea"
+  location         : "Korea:kr:"
   email            :
   links:
     - label: "Email"
@@ -263,6 +263,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jemoji
 
 # mimic GitHub Pages with --safe
 whitelist:
