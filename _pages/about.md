@@ -4,7 +4,8 @@ layout: single
 author_profile: true
 classes : wide
 header:
-    image : /assets/images/header_bg.png
+    overlay_image : /assets/images/header_bg.png
+    # overlay_color: "#333"
 title: "# # Introduce"
 ---
 
