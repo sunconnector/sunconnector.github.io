@@ -8,7 +8,7 @@ header:
     # overlay_color: "#333"
 excerpt: | 
     Data Analysis
-title: # "# Introduce"
+title: Introduce
 ---
 
 ## Skill
