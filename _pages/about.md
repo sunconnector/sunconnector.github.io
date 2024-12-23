@@ -8,8 +8,7 @@ header:
     # overlay_color: "#333"
 excerpt: | 
     Data Analysis
-title: "# # Introduce"
-browser_title: SunConnector
+title: # Introduce
 ---
 
 ## Skill
