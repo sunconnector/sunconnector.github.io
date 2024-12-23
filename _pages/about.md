@@ -9,6 +9,7 @@ header:
 excerpt: | 
     Data Analysis
 title: "# # Introduce"
+browser_title: SunConnector
 ---
 
 ## Skill
