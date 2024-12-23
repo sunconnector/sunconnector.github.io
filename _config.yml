@@ -116,7 +116,7 @@ author:
   name             : # "Your Name"
   avatar           : /assets/images/profile.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Analysis"
-  location         : Korea :kr:
+  location         : "Korea:kr:"
   email            :
   links:
     - label: "Email"
