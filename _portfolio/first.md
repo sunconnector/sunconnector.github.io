@@ -3,7 +3,7 @@ title: 광진구 주정차 단속 현황
 excerpt: "광진구 주정차 단속 현황을 통한 문제 해결 방안 모색"
 header:
   image: /assets/images/portfolio/광진구_주정차_단속/result.png
-  teaser: assets/images/profile.png
+  teaser: /assets/images/portfolio/광진구_주정차_단속/result.png
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250
@@ -20,5 +20,6 @@ sidebar:
  #   alt: "placeholder image 2"
 ---
 
+# # 광진구 주정차 단속 공모전
 
 ![foo](/assets/images/portfolio/광진구_주정차_단속/result.png)
