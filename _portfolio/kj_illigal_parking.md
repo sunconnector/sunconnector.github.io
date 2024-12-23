@@ -1,5 +1,5 @@
 ---
-title: [광진구] 주정차 단속 문제
+title: 광진구 주정차 단속 문제
 excerpt: "주정차 단속 데이터 분석을 통한 해결방안 도출"
 header:
   # image: /assets/images/portfolio/seoul_kj/result.png
