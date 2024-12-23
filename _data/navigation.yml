@@ -2,16 +2,16 @@
 main:
   - title: "Home"
     url: /
+  - title: "About"
+    url: /about/
+  - title: "Portfolio"
+    url: /portfolio/
   - title: "Post"
     url: /blog
   - title: "Category"
     url: /categories/
   - title: "Tags"
     url: /tags/
-  - title: "Portfolio"
-    url: /portfolio/
-  - title: "About"
-    url: /about/
 side_bar:
   - title: "Python"
     children:
