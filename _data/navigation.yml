@@ -4,10 +4,12 @@ main:
     url: /
   - title: "Post"
     url: /blog
-  - title: "Categoris"
+  - title: "Category"
     url: /categories/
   - title: "Tags"
     url: /tags/
+  - title: "Portfolio"
+    url: /portfolio/
   - title: "About"
     url: /about/
 side_bar:
