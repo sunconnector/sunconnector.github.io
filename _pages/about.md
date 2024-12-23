@@ -11,6 +11,13 @@ excerpt: |
 title: Introduce
 ---
 
+## Likes
+
+* Coding with Big Data
+* Reading books
+* Excercise
+* Traveling
+
 ## Skill
 
 ![foo](/assets/images/skill.png)
