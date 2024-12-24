@@ -10,5 +10,3 @@ header:
 entries_layout: grid
 classes: wide
 ---
-
-SunConnector's Project
