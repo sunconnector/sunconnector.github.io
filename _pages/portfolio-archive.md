@@ -1,6 +1,6 @@
 ---
 title: Portfolio
-exerpt: SunConnector' Project
+excerpt: SunConnector' Project
 layout: collection
 permalink: /portfolio/
 collection: portfolio
