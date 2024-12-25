@@ -30,7 +30,7 @@ gallery:
 
 ## Likes
 
-{% include gallery caption="This is **What I Really Like**." %}
+{% include gallery layout="half" caption="This is **What I Really Like**." %}
 
 
 ## Skill
