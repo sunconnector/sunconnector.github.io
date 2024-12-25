@@ -14,6 +14,14 @@ gallery:
     image_path: /assets/images/about/coding.png
     alt: "Coding"
     title: "Coding"
+  - url: /assets/images/about/reading.png
+    image_path: /assets/images/about/reading.png
+    alt: "Reading"
+    title: "Reading"
+  - url: /assets/images/about/excercise.png
+    image_path: /assets/images/about/excercise.png
+    alt: "Excercise"
+    title: "Excercise"
 ---
 
 ## Likes
