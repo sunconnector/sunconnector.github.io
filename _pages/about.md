@@ -30,7 +30,7 @@ gallery:
 
 ## Likes
 
-[likes](/assets/images/about/likes.png)
+![likes](/assets/images/about/likes.png)
 
 
 ## Skill
