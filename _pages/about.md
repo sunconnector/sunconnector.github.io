@@ -32,10 +32,6 @@ gallery:
 
 {% include gallery caption="This is **What I Really Like**." %}
 
-* Coding with Big Data
-* Reading books
-* Excercise
-* Traveling
 
 ## Skill
 
