@@ -11,12 +11,12 @@ excerpt: |
 title: Introduce
 gallery:
   - url: /assets/images/logo.png
-    title: "Coding"
+    title: "Image 1 title caption"
 ---
 
 ## Likes
 
-{% include gallery %}
+{% include gallery caption="This is a sample gallery with **Markdown support**." %}
 
 * Coding with Big Data
 * Reading books
