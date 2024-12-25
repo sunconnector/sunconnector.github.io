@@ -30,7 +30,7 @@ gallery:
 
 ## Likes
 
-{% include gallery caption="This is **What I Really Like**." %}
+{% include gallery class="fourth" caption="This is **What I Really Like**." %}
 
 * Coding with Big Data
 * Reading books
