@@ -11,6 +11,8 @@ excerpt: |
 title: Introduce
 gallery:
   - url: /assets/images/logo.png
+    image_path: /assets/images/unsplash-gallery-image-1-th.jpg
+    alt: "placeholder image 1"
     title: "Image 1 title caption"
 ---
 
