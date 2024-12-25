@@ -30,7 +30,7 @@ gallery:
 
 ## Likes
 
-{% include gallery layout="half" caption="This is **What I Really Like**." %}
+[likes](/assets/images/about/likes.png)
 
 
 ## Skill
