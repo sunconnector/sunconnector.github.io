@@ -22,11 +22,15 @@ gallery:
     image_path: /assets/images/about/excercise.png
     alt: "Excercise"
     title: "Excercise"
+  - url: /assets/images/about/travel.png
+    image_path: /assets/images/about/travel.png
+    alt: "Travel"
+    title: "Travel"
 ---
 
 ## Likes
 
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery caption="This is **What I Really Like**." %}
 
 * Coding with Big Data
 * Reading books
