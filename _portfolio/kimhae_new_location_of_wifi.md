@@ -16,6 +16,9 @@ toc_stacky: true
 
 # # 데이터 전처리
 ---
+- 활용데이터
+    - 김해시 주요시설( 공원, 문화재, 주요상권)
+    - 김해시 유동인구
 
 ![merge](/assets/images/portfolio/kimhae/merge.png){: .align-left}   
 
