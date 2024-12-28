@@ -10,4 +10,6 @@ header:
     overlay_filter: linear-gradient(90deg, rgba(125,94,93,1), rgba(255,255,255,1))
 entries_layout: grid
 classes: wide
+sort_by: order
+sort_order: reverse
 ---
