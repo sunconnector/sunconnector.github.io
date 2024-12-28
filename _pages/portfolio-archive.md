@@ -6,7 +6,7 @@ permalink: /portfolio/
 collection: portfolio
 author_profile: true
 header:
-    overlay_color : linear-gradient( to left, #7D5E5D 0%, #FFFFFF 0% )
+    overlay_color : linear-gradient(to right, #00008B 200px, #E60026 0%)
 entries_layout: grid
 classes: wide
 ---
