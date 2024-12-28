@@ -7,7 +7,9 @@ collection: portfolio
 author_profile: true
 header:
     overlay_color: "#FFFFFF"
-    overlay_filter: linear-gradient( to left, "#7D5E5D", "#FFFFFF" )
+    overlay_filter: linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
+            linear-gradient(127deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%),
+            linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%)
 entries_layout: grid
 classes: wide
 ---
