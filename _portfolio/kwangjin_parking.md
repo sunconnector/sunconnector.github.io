@@ -5,6 +5,7 @@ header:
   # image: /assets/images/portfolio/seoul_kj/result.png
   teaser: /assets/images/portfolio/seoul_kj/dash.png
 classes : wide
+order: 2
 # sidebar:
 #  - title: "Role"
 #    image: http://placehold.it/350x250
