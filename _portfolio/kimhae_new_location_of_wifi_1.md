@@ -22,10 +22,15 @@ toc_stacky: true
 - 활용데이터
     - 김해시 주요시설( 공원, 문화재, 주요상권)
     - 김해시 유동인구
-|
+
+
+
+
+
+
 # # Grid 우선순위 Numbering
 ---
-|
+
 ![merge](/assets/images/portfolio/kimhae/teaser.png){: width="400" height="400"}   
 
 해당 항목을 고려한 우선순위 선정
