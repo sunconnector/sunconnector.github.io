@@ -23,7 +23,9 @@ toc_stacky: true
 ![merge](/assets/images/portfolio/kimhae/merge.png){: .align-left width="200" height="300"}
 
 - 문화재 + 공원 + 상권지역 데이터 병합   
-- 유동인구 다수 지역과 병합   
+- 유동인구 다수 지역과 병합
+
+---
 
 # # Grid 우선순위 Numbering
 ---
