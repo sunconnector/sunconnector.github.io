@@ -12,7 +12,7 @@ toc_stacky: true
 # # Result
 ---
 
-![foo](/assets/images/portfolio/kimhae/result.png)
+![foo](/assets/images/portfolio/kimhae/result.png)  
 
 # # 데이터 전처리
 ---
@@ -20,9 +20,8 @@ toc_stacky: true
 ![merge](/assets/images/portfolio/kimhae/merge.png){: .align-left width="200" height="300"}   
 
 * 활용데이터   
-    >> 김해시 주요시설( 공원, 문화재, 주요상권)   
-    >> 김해시 유동인구
-<br>
+    * 김해시 주요시설( 공원, 문화재, 주요상권)   
+    * 김해시 유동인구  
 
 
 # # Grid 우선순위 Numbering
