@@ -20,9 +20,9 @@ toc_stacky: true
 ![merge](/assets/images/portfolio/kimhae/merge.png){: .align-left width="200" height="300"}   
 
 * 활용데이터   
-    * 김해시 주요시설( 공원, 문화재, 주요상권)   
-    * 김해시 유동인구
-   
+    >> 김해시 주요시설( 공원, 문화재, 주요상권)   
+    >> 김해시 유동인구
+<br>
 
 
 # # Grid 우선순위 Numbering
