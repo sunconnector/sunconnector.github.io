@@ -13,4 +13,10 @@ toc_stacky: true
 
 ![foo](/assets/images/portfolio/kimhae/result.png)
 
+# 데이터 전처리
+
+![merge](/assets/images/portfolio/kimhae/merge.png){: .align-left}
+
+> 문화재 + 공원 + 상권지역 데이터 병합
+> 유동인구 다수 지역과 병합
 
