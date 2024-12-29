@@ -15,7 +15,7 @@ gallery:
 # # Result
 ---
 
-![foo](/assets/images/portfolio/kimhae/result.png)  
+![result](/assets/images/portfolio/kimhae/result.png)  
 
 # # 데이터 전처리
 ---
