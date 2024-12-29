@@ -25,10 +25,5 @@ gallery:
 
 ![merge](/assets/images/portfolio/kimhae/merge.png)
 
-
-# # Grid 우선순위 Numbering
----
-
-![merge](/assets/images/portfolio/kimhae/teaser.png){: width="400" height="400"}   
-
-해당 항목을 고려한 우선순위 선정
+'공원, 문화재, 주요상권' 데이터를 공간 통합 후 '유동인구' 데이터와 결합하여  
+우선순위가 높은 지역을 선정 후 Numbering
