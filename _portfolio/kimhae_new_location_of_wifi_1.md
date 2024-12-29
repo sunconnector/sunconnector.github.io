@@ -20,12 +20,12 @@ gallery:
 # # 데이터 전처리
 ---
 
-{% include gallary %} 
+{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+
 
 * 활용데이터   
     * 김해시 주요시설( 공원, 문화재, 주요상권)   
     * 김해시 유동인구
-</br>
 
 # # Grid 우선순위 Numbering
 ---
