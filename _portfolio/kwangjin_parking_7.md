@@ -34,7 +34,7 @@ toc_stacky: true
 * 주요 발생시간 : **<font color = "#ED7D31">토, 일 7, 20시</font>**
 * 강북( **<font color = "#ED7D31">동서울</font>** ) vs 강남 ( 고속, 센트럴, 남부 )
 
-## ㅇ 군자동
+## ㅇ 군자동 ( 어린이 대공원 )
 
 ![군자동](/assets/images/portfolio/kwangjin/gunja_dash.png){: .align-center}
 
@@ -51,5 +51,7 @@ toc_stacky: true
 
 ![군자동_month](/assets/images/portfolio/kwangjin/main_visit_region.png){: .align-center}
 
+* 해당지역 셔틀버스 운영 검토 ( 차량 이용 제한 )
+* 일요일 방문 쿠폰 발행( 이용객 분산 )
 
 
