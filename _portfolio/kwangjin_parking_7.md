@@ -2,7 +2,7 @@
 title: "[광진구] 주정차 문제"
 excerpt: "주정차 문제 해결방안"
 header:
-  teaser: /assets/images/portfolio/kwangjin/teaser.png
+  teaser: /assets/images/portfolio/kwangjin/dash.png
 classes : wide
 order: 7
 toc: true
@@ -44,3 +44,12 @@ toc_stacky: true
 
 ![군자동_month](/assets/images/portfolio/kwangjin/cp_monthly.png){: .align-center}
 ![군자동_day](/assets/images/portfolio/kwangjin/cp_daily.png){: .align-center}
+
+* 주요 방문 지역
+    * 대상 : **<font color = "#ED7D31">토요일 30~40대 + 0세(아이) 6시 출발</font>**
+    * 사유 : 8 ~ 9시 도착 인원 예상
+
+![군자동_month](/assets/images/portfolio/kwangjin/main_visit_region.png){: .align-center}
+
+
+
