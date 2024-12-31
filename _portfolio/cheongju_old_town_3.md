@@ -23,5 +23,5 @@ toc_stacky: true
 * 건물 노후도 증가
 * 업무시설 노후 → 일자리 감소
 
-![result](/assets/images/portfolio/cheongju/teaser.png)
+![result](/assets/images/portfolio/cheongju/teaser.png){: .align-center}
 
