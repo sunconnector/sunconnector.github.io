@@ -12,6 +12,11 @@ toc_stacky: true
 # # Result
 ---
 
+* 활용데이터   
+    * 천안시 Map ( Geometry )
+    * 천안시 Tmap Data
+
+
 ![result](/assets/images/portfolio/cheonan/result.png)
 
 * 19년 대비 23년 방문 증가 지역 ( Dumbel Chart )
@@ -19,12 +24,6 @@ toc_stacky: true
 * 현지인 인기 방문 Category( Gage Chart )
 * 목적지별 방문건수 & 연관지역( Map Chart )
 * 외부인 방문 및 체류시간( Map Chart & buble Chart )
-
-# # 데이터 전처리
----
-* 활용데이터   
-    * 천안시 Map ( Geometry )
-    * 천안시 Tmap Data
 
 ![merge](/assets/images/portfolio/cheonan/explain.png){: .align-center}
 
