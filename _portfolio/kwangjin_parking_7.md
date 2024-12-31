@@ -24,11 +24,23 @@ toc_stacky: true
 {: .notice--success}
 
 ![result](/assets/images/portfolio/kwangjin/dash.png)
+
+
+## ㅇ 구의동
+
 ![result](/assets/images/portfolio/kwangjin/guee.png){: .align-center}
 
-## # 구의동 주정차 문제 해결
----
 * 동서울 터미널 인근 주정차 문제 심각
 * 주요 발생시간 : **<font color = "#ED7D31">토, 일 7, 20시</font>**
 * 강북( **<font color = "#ED7D31">동서울</font>** ) vs 강남 ( 고속, 센트럴, 남부 )
 
+## ㅇ 군자동
+
+![군자동](/assets/images/portfolio/kwangjin/gunja_dash.png){: .align-center}
+
+* 어린이 대공원 인근 주정차 문제 심각
+* 주요 발생시간 : **<font color = "#ED7D31">주말 & 유흥상권</font>**
+* 특히 **<font color = "#ED7D31">동물원 관람 시간 종료 시점</font>** 발생이 집중
+
+![군자동_month](/assets/images/portfolio/kwangjin/cp_monthly.png){: .align-center}
+![군자동_day](/assets/images/portfolio/kwangjin/cp_daily.png){: .align-center}
