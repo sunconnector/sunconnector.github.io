@@ -39,3 +39,5 @@ toc_stacky: true
 병원 개설 검토 시 해당 지역 우선순위 필요
 {: .notice--success}
 
+![map](/assets/images/portfolio/seoul_hospital/teaser.png){: .align-center}
+
