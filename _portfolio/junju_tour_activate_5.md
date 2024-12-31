@@ -32,7 +32,7 @@ toc_stacky: true
 ![heatmap](/assets/images/portfolio/junju/dash.png){: .align-center}
 
 * 외국인 관광 성향
-    * 경기전( **[colored word](#){: style="color: ED853F"}** )
+    * 경기전( **[colored word](#){: style="color: #ED853F"}** )
     * 전주한벽 문화과( <p style="color: #ED853F;">체험</p> )
 
 
