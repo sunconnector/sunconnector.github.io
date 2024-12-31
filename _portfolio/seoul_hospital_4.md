@@ -23,7 +23,7 @@ toc_stacky: true
 병상 부족이 예상되는 지역 `노원구 200%` ( 서울시 평균 6.3명 대비 )
 {: .notice--success}
 
-![heatmap](/assets/images/portfolio/seoul_hospital/heatmap.png){: .align-left}
+![heatmap](/assets/images/portfolio/seoul_hospital/heatmap.png){: .align-right}
 
 * 구별 연령별 생활인구
     1. 송파구
