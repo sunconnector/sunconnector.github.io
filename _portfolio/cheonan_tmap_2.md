@@ -9,13 +9,14 @@ toc: true
 toc_stacky: true
 ---
 
+# # 활용 Data
+---
+* 천안시 Map ( Geometry )
+* 천안시 Tmap Data
+
+
 # # Result
 ---
-
-* 활용데이터   
-    * 천안시 Map ( Geometry )
-    * 천안시 Tmap Data
-
 
 ![result](/assets/images/portfolio/cheonan/result.png)
 
