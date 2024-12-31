@@ -20,7 +20,7 @@ toc_stacky: true
     * 천안시 Map ( Geometry )
     * 천안시 Tmap Data
 
-![merge](/assets/images/portfolio/cheonan/explain.png)
+![merge](/assets/images/portfolio/cheonan/explain.png){: .align--center}
 
 > 19년 대비 23년 방문 증가 지역 ( Dumbel Chart )
 > 연령별 월별 방문 현황 ( Heatmap )
