@@ -19,7 +19,8 @@ toc_stacky: true
 
 ![result](/assets/images/portfolio/cheongju/result.png)
 
-원도심 쇠퇴 원인{: .notice--success}
+원도심 쇠퇴 원인
+{: .notice--success}
 * 건물 노후도 증가
 * 업무시설 노후 → 일자리 감소
 
