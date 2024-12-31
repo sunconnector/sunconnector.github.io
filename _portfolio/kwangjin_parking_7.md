@@ -23,12 +23,12 @@ toc_stacky: true
 구의동 버스터미널 `방문객 분산` 필요 ( 강남 유도 & KTX 연계 )
 {: .notice--success}
 
-![result](/assets/images/portfolio/kwangjin/teaser.png)
+![result](/assets/images/portfolio/kwangjin/dash.png)
 ![result](/assets/images/portfolio/kwangjin/guee.png){: .align-center}
 
 ## # 구의동 주정차 문제 해결
 ---
 * 동서울 터미널 인근 주정차 문제 심각
-* 주요 발생시간 : **< font color = "#ED7D31">토, 일 7, 20시</font>**
-* 강북( **< font color = "#ED7D31">동서울</font>** ) vs 강남 ( 고속, 센트럴, 남부 )
+* 주요 발생시간 : **<font color = "#ED7D31">토, 일 7, 20시</font>**
+* 강북( **<font color = "#ED7D31">동서울</font>** ) vs 강남 ( 고속, 센트럴, 남부 )
 
