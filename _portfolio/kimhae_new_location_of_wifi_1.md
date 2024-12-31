@@ -12,19 +12,20 @@ gallery:
   - image_path: /assets/images/portfolio/kimhae/teaser.png
 ---
 
+# # 활용 Data
+---
+* 김해시 주요시설( 공원, 문화재, 주요상권)   
+* 김해시 유동인구
+
+
 # # Result
 ---
 
 ![result](/assets/images/portfolio/kimhae/result.png)  
 
-# # 데이터 전처리
----
-* 활용데이터   
-    * 김해시 주요시설( 공원, 문화재, 주요상권)   
-    * 김해시 유동인구
-
-![merge](/assets/images/portfolio/kimhae/merge.png)
-
 `공원, 문화재, 주요상권` 데이터를 공간 통합 후 `유동인구` 데이터와 결합하여  
 우선순위가 높은 지역을 선정 후 Numbering
 {: .notice--info }
+
+![merge](/assets/images/portfolio/kimhae/merge.png)
+
