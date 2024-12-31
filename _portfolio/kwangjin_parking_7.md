@@ -24,10 +24,11 @@ toc_stacky: true
 {: .notice--success}
 
 ![result](/assets/images/portfolio/kwangjin/teaser.png)
+![result](/assets/images/portfolio/kwangjin/guee.png){: .align-center}
 
-
-![result](/assets/images/portfolio/junju/result.png){: .align-center}
-
-* 아시아 & 미국 관광객 증가
-* Covid 종료 이후 관광객 재증가
+## # 구의동 주정차 문제 해결
+---
+* 동서울 터미널 인근 주정차 문제 심각
+* 주요 발생시간 : **< font color = "#ED7D31">토, 일 7, 20시</font>**
+* 강북( **< font color = "#ED7D31">동서울</font>** ) vs 강남 ( 고속, 센트럴, 남부 )
 
