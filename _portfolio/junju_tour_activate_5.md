@@ -33,7 +33,7 @@ toc_stacky: true
 
 * 외국인 관광 성향
     * 경기전( **[colored word](#){: style="color: #ED853F"}** )
-    * 전주한벽 문화과( <p style="color: #ED853F;">체험</p> )
+    * 전주한벽 문화관( $\color{#ED853F}{\text{체험}}$ )
 
 
 ![bar](/assets/images/portfolio/junju/teaser.png){: .align-center}
