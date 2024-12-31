@@ -19,6 +19,6 @@ toc_stacky: true
 
 ![result](/assets/images/portfolio/tour/abroad_result.png)
 
-Power BI Dashboard 
+**Power BI Dashboard**
 {: .notice--success}
 
