@@ -1,6 +1,6 @@
 ---
-title: "[청주시] 원도심 활성화"
-excerpt: "건축물대장 데이터 활용"
+title: "[서울시] 고령화 병상"
+excerpt: "생활인구와 병상의 상관관계"
 header:
   teaser: /assets/images/portfolio/seoul_hospital/teaser.png
 classes : wide
