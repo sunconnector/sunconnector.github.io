@@ -38,3 +38,7 @@ toc_stacky: true
 
 ![bar](/assets/images/portfolio/junju/teaser.png){: .align-center}
 
+* 현재 주요 관광지 밀집되어 다양한 경험 제공 어려움
+* 자전거 도로를 활용한 전주의 풍경을 볼 수 있도로 제안
+* 외국인 체험형 한지공예 방문과 연계하여 자전거 탑승 동기 부여
+
