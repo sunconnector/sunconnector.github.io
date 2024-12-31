@@ -12,7 +12,7 @@ toc_stacky: true
 # # 활용 Data
 ---
 * 자전거 도로 현황
-* 한지공계 기업 현황
+* 한지공계 기업 현황   
 
 
 # # Result
@@ -32,8 +32,8 @@ toc_stacky: true
 ![heatmap](/assets/images/portfolio/junju/dash.png){: .align-center}
 
 * 외국인 관광 성향
-    * 경기전( `고궁` )
-    * 전주한벽 문화과( `체험` )
+    * 경기전( <p style="color: #ED853F;">고궁</p> )
+    * 전주한벽 문화과( <p style="color: #ED853F;">체험</p> )
 
 
 ![bar](/assets/images/portfolio/junju/teaser.png){: .align-center}
