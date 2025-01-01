@@ -11,7 +11,7 @@ toc_stacky: true
 
 # # 활용 Data
 ---
-* 도착지별 내국인 출국자 현황 <br>
+* 도착지별 내국인 출국자 현황
 
 
 # # Result
