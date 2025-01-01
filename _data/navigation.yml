@@ -7,7 +7,7 @@ main:
   - title: "Portfolio"
     url: /portfolio/
   - title: "Post"
-    url: /blog
+    url: /blog/
   - title: "Category"
     url: /categories/
   - title: "Tags"
