@@ -1,13 +1,11 @@
 ---
 title:  "[ python ] interactive with altair"
 excerpt: "interactive test"
-# classes : wide
 categories:
     - polars
     - altair
 toc : true
 toc_sticky : true
-# comments : true
 author_profile: true
 ---
 ## # test interactive chart in github blog
