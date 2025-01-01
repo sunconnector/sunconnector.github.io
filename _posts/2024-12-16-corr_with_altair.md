@@ -38,33 +38,6 @@ df_c = df.corr().with_columns(
 ```
 
 ### # Visualiztion with altair
-___
-
-
-```python
-df_base = alt.Chart( df_c ).mark_rect().encode(
-    alt.X( 'col' ).title( None ).axis( labelAngle = 0 ), 
-    alt.Y( 'variable' ).title( None )
-)
-
-df_rect = df_base.mark_rect().encode(
-    alt.Color( 'value' )
-)
-
-df_text = df_base.mark_text().encode(
-    alt.Text( 'value' ).format( ',.2%' ), 
-    color = alt.condition( 
-        alt.datum.value > 0.8, alt.value( 'white' ), alt.value( 'gray' ) 
-    )
-)
-alt.layer( 
-    df_rect, df_text, width = 300, height = 300 
-).configure_axis( labelFontSize = 13 )
-```
-
-
-
-
 
 <style>
   #altair-viz-1e8e3cf225a04ad28dc2084629771656.vega-embed {
