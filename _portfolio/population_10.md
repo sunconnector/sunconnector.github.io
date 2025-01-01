@@ -18,10 +18,12 @@ toc_stacky: true
 ---
 
 ![result](/assets/images/portfolio/population/result.png)
-![result](/assets/images/portfolio/population/example.png){: .align-center}
+
 
 **Power BI Dashboard**
 {: .notice--success}
+
+![result](/assets/images/portfolio/population/example.png){: .align-center}
 
 * 지도 도형 클릭시 KPI, 성별, 연령별 인구 Trend 확인
 * Year Filter
