@@ -326,15 +326,6 @@ defaults:
       related: true
       sidebar:
         nav: "side_bar"
-
-# Collections
-collections:
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-
-# Defaults
-defaults:
   # _portfolio
   - scope:
       path: ""
@@ -343,3 +334,10 @@ defaults:
       layout: single
       author_profile: true
       share: true
+
+# Collections
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+  
