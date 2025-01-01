@@ -8,8 +8,8 @@ toc : true
 toc_sticky : true
 author_profile: true
 ---
+
 ## # test interactive chart in github blog
----
 
 
 ```python
@@ -31,34 +31,6 @@ df = pl.DataFrame( {
 
 ### # Visualiztion with altair
 ___
-
-
-```python
-sel = alt.selection_point( fields = [ 'key' ] )
-
-base = alt.Chart( df ).transform_fold(
-    df.columns
-).encode(
-    alt.X( 'key:N' )
-)
-
-bar = base.mark_bar().encode(
-    alt.Y( 'sum(value):Q' )
-)
-
-circle = base.mark_circle().encode(
-    alt.Size( 'sum(value):Q' ).legend( None )
-)
-
-alt.vconcat(
-    circle.add_params( sel ), bar.transform_filter( sel )
-).configure_axis( 
-    title = None, labelAngle = 0, grid = False
-).configure_view( stroke = None )
-```
-
-
-
 
 
 <style>
