@@ -1,10 +1,10 @@
 ---
-title: "[인구] 정주인구"
-excerpt: "대한민국 인구현황"
+title: "[인구] 출생-사망인구"
+excerpt: "출생-사망 인구 통계"
 header:
   teaser: /assets/images/portfolio/population/teaser.png
 classes : wide
-order: 10
+order: 11
 toc: true
 toc_stacky: true
 ---
