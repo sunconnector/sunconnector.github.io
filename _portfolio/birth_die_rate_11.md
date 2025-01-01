@@ -2,7 +2,7 @@
 title: "[인구] 출생-사망인구"
 excerpt: "출생-사망 인구 통계"
 header:
-  teaser: /assets/images/portfolio/population/teaser.png
+  teaser: /assets/images/portfolio/population/bd_rate_teaser.png
 classes : wide
 order: 11
 toc: true
@@ -11,23 +11,24 @@ toc_stacky: true
 
 # # 활용 Data
 ---
-* 행정안전 주민등록 인구통계
+* 지역별 성별 출생등록자수
+* 서울시 지역별 성별 연령별 사망말소자수
 
 
 # # Result
 ---
 
-![result](/assets/images/portfolio/population/result.png)
+![result](/assets/images/portfolio/population/bd_rate_result.png)
 
 
 **Power BI Dashboard**
 {: .notice--success}
 
-![result](/assets/images/portfolio/population/example.png){: .align-center}
+![result](/assets/images/portfolio/population/bd_rate_example.png){: .align-center}
 
-* 지도 도형 클릭시 KPI, 성별, 연령별 인구 Trend 확인
-* Year Filter
-  - 현재 - 선택 년도 인구 Gap 확인
-  - 해당 년도 인구수 행정구역별 비교
-* Rank 필터를 통해 해당 년도 순위권 지역 확인
+* 시도 필터를 통한 구별 사망 - 출생 트렌드 확인
+* 지역별 ( Map Chart ) / 시계열 ( Line Chart )
+  - 지역별 인구 증감 ( Color ) / 증감수 ( Bubble )
+  - 연령별 사망자수 성별 확인
+* 출생자가 많은 지역 or 반대의 경우를 다각적으로 분석
 
