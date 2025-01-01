@@ -15,7 +15,7 @@ import polars as pl
 import altair as alt
 ```
 
-### # make DatraFrame
+### # make DataFrame
 ---
 
 
