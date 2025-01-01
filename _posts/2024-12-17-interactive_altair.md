@@ -8,6 +8,7 @@ categories:
 toc : true
 toc_sticky : true
 comments : true
+author_profile: true
 ---
 ## # test interactive chart in github blog
 ---
