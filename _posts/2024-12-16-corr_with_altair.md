@@ -7,7 +7,7 @@ categories:
     - altair
 toc : true
 toc_sticky : true
-comments : true
+#comments : true
 ---
 
 ```python
