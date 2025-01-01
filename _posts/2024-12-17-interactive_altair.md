@@ -30,8 +30,6 @@ df = pl.DataFrame( {
 ```
 
 ### # Visualiztion with altair
-___
-
 
 <style>
   #altair-viz-3fa5d233d9814c4faa952aeec48a6901.vega-embed {
